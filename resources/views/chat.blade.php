@@ -25,7 +25,7 @@
 
     <script src="//code.jquery.com/jquery-1.11.3.min.js"></script>
     <script src="https://cdn.rawgit.com/samsonjs/strftime/master/strftime-min.js"></script>
-    <script src="//js.pusher.com/3.0/pusher.min.js"></script>
+    <script src="//js.pusher.com/4.1/pusher.min.js"></script>
 
     <script>
         // Ensure CSRF token is sent with AJAX requests

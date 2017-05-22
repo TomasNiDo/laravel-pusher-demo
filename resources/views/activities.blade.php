@@ -9,7 +9,7 @@
     <link rel="stylesheet" type="text/css" href="https://pusher-community.github.io/real-time-laravel/assets/laravel_app/activity-stream-tweaks.css" />
 
     <script src="//code.jquery.com/jquery-1.11.3.min.js"></script>
-    <script src="//js.pusher.com/3.0/pusher.min.js"></script>
+    <script src="//js.pusher.com/4.1/pusher.min.js"></script>
 
     <script>
         // Ensure CSRF token is sent with AJAX requests
