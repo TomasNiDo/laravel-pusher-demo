@@ -6,7 +6,7 @@ https://pusher-community.github.io/real-time-laravel/index.html
 
 Requirements for this demo:
 - Pusher account from pusher.com
-- Guthub app API
+- Github app API
 
 Add this to your .env file:
 ```
